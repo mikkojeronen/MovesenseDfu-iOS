@@ -7,7 +7,7 @@
 
 import CoreBluetooth
 import Foundation
-import iOSDFULibrary
+import NordicDFU
 
 internal enum Constants {
     static let dfuUuid: CBUUID = CBUUID(string: "FE59")

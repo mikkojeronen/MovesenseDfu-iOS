@@ -7,7 +7,7 @@
 
 import CoreBluetooth
 import Foundation
-import iOSDFULibrary
+import NordicDFU
 
 internal class DfuContainer {
 
